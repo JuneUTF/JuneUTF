@@ -5,7 +5,7 @@
 - I come from Vietnam
 - Front-End Developer learning
 (HTML,CSS,JavaScript,React,SCSS,...)
-- Back-End  learning (PHP,NodeJS,MySQL)
+- Back-End Java Spring Boot  learning (PHP,NodeJS,MySQL)
 
 <!---
 JuneUTF/JuneUTF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
